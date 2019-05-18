@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+<title>Condition Black Cybersecurity Research</title><link>https://condition.black/index.html</link><description>Security Research</description><dc:language>en</dc:language><language>en</language><dc:creator>Condition Black</dc:creator><dc:rights>Copyright 2019&#x2c; Condition Black (A division of Mysensitivedata.com&#x2c; Inc.)</dc:rights><dc:date>2019-03-29T20:17:00-04:00</dc:date><admin:generatorAgent rdf:resource="http://www.realmacsoftware.com/" />
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+<lastBuildDate>Mon, 16 Jul 2018 07:44:53 -0400</lastBuildDate><item><title>Coming Soon</title><dc:creator>Condition Black</dc:creator><dc:subject>Research</dc:subject><dc:date>2019-03-29T20:17:00-04:00</dc:date><link>https://condition.black/research/files/6df634bd64f22193a33da2d82a3d9337-3.html#unique-entry-id-3</link><guid isPermaLink="true">https://condition.black/research/files/6df634bd64f22193a33da2d82a3d9337-3.html#unique-entry-id-3</guid><content:encoded><![CDATA[<p style="text-align:center;">We will be publishing new research soon.</p>]]></content:encoded></item></channel>
+</rss>
